@@ -182,7 +182,8 @@ console.log(filterByWord(originalFlavors, "Chocolate"));
 
 /* 🧁🍦🍨 STRETCH 🍨🍦🍫*/ 
 
-/* STRETCH 1: Write a function that returns the average number of words in an array. You should be able to use this function for any array, but can test with originalFlavors.
+/* STRETCH 1: Write a function that returns the average number of words in an array. 
+You should be able to use this function for any array, but can test with originalFlavors.
 
 Your function should accept: 
 
@@ -194,10 +195,11 @@ For example, getAverageWordLength(originalFlavors) should return a number betwee
 
 function getAverageWordLength(array){
 
-    /*code here*/
+   
 
 }
 
+getAverageWordLength(originalFlavors)
 
 /* STRETCH 2: Baskin Robins now offers new flavors, seasonal flavors, and even regional flavors. Write a function that will randomly select a total of 31 flavors from originalFlavors, currentFlavors, seasonalFlavors, and regionalFlavors.
 
